@@ -7,7 +7,9 @@ GİT
 # SETUP
 
 git clone https://github.com/NekomyaDev/AI-Training-TON-THE-OPEN-NETWORK-.git
+
 cd download_ton_data
+
 pip install requests beautifulsoup4
 
 
