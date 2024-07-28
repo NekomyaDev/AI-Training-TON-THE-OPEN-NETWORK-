@@ -6,6 +6,17 @@ from bs4 import BeautifulSoup
 TON_SOURCES = [
     "https://ton.org/docs",
     "https://tonscan.org/",
+    "https://en.wikipedia.org/wiki/The_Open_Network",
+    "https://tonwiki.space/wiki/The_Open_Network",
+    "https://docs.ton.org/",
+    "https://wallet.tg/",
+    "http://ston.fi/" ,
+    "https://www.tapps.center/",
+    "https://tonstarter.com/",
+    "https://core.telegram.org/bots/webapps",
+    "https://ton.org/ru/mini-apps",
+    "https://tonresear.ch/u/simpson/summary"
+    
     # Other necessary resource URLs can be added here
 ]
 
