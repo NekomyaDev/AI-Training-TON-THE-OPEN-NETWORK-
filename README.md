@@ -3,9 +3,13 @@ Collects data including contracts and public information from TON (The Open Netw
 
 # REQUIREMENTS 
 PYTHON (3.10 OR OLDER)
-
+GİT
 # SETUP
+'''
+git clone https://github.com/NekomyaDev/AI-Training-TON-THE-OPEN-NETWORK-.git
+cd download_ton_data
 pip install requests beautifulsoup4
+'''
 
 # RUN 
 python download_ton_data.py
